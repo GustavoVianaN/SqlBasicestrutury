@@ -8,7 +8,7 @@ USE call_center;  --name and type of database --
 --------  ---------
 
 CREATE TABLE instructor -- create a table of database with a name --
- (    -- write the atributtes of code --
+ (    -- written the atributtes of code --
     cod_inst INT NOT NULL AUTO_INCREMENT,
     name_inst VARCHAR(30),
     sector VARCHAR(30), 
